@@ -8,7 +8,7 @@ FROM debian:jessie-slim
 
 # based on dockerfile by Michael Friis <friism@gmail.com>
 
-ENV MONO_VERSION 5.0.1.1
+ENV MONO_VERSION 5.8.0.127
 
 RUN apt-get update \
   && apt-get install -y curl \
