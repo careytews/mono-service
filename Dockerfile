@@ -26,4 +26,5 @@ RUN echo "deb http://download.mono-project.com/repo/debian jessie/snapshots/$MON
     libmono-system-core4.0-cil \
     libmono-system-management4.0-cil \
     libmono-system-runtime-caching4.0-cil \
+    libmono-system-runtime-serialization4.0-cil \
   && rm -rf /var/lib/apt/lists/* /tmp/*
