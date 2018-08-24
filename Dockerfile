@@ -1,4 +1,4 @@
-FROM pwillie/mono-runtime:5.10
+FROM pwillie/mono-runtime:5.14
 
 # MAINTAINER Peter Wilson <pwillie@users.noreply.github.com>
 
